@@ -40,32 +40,6 @@
 
 <div align="center" >
 
-
-```mermaid
-mindmap
-  root((小孙同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -108,10 +82,9 @@ mindmap
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
+<!-- programming tool icon 编程工具图标 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
-<!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -124,7 +97,7 @@ mindmap
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
+
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/vscode.webp">
@@ -133,6 +106,7 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/github.webp">
+-->
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/icon.png" /></div>
