@@ -30,6 +30,13 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1binbin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1binbin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </td></tr>
+  <tr><td>
+    <!-- Awesome repo 比较好的仓库-->
+<a href="https://github.com/1binbin/Awesome-Love-Code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1binbin&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/1binbin/Student-Data-Vision">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1binbin&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+  </td></tr>
 </table>
 
 
@@ -125,11 +132,7 @@
   
 
 
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/1binbin/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=1binbin&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/1binbin/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=1binbin&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
   
 <!-- Wakatime Graph-->
 <table>
