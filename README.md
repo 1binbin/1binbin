@@ -33,13 +33,6 @@
 <td><tr>
   
 </td></tr>
-<td><tr>
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<a href="https://wakatime.com/@1binbin"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>&emsp;
-
-</td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
