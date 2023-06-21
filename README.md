@@ -77,9 +77,7 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/1binbin/1binbin/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+
 </div>
 
 
